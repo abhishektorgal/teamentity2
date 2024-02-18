@@ -1,8 +1,8 @@
 <?php
-	$host = "sql210.infinityfree.com";
-	$user = "if0_35990446";
-	$pass = "4mxNFpqjAd3RIMT";
-	$db = "if0_35990446_attendancemsystem";
+	$host = "sql108.infinityfree.com";
+	$user = "if0_36001121";
+	$pass = "0mEpIizMR2C";
+	$db = "if0_36001121_attendencemsystem";
 	
 	$conn = new mysqli($host, $user, $pass, $db);
 	if($conn->connect_error){
